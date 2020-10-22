@@ -251,7 +251,7 @@ body{
 
 }
 .wrapper .button:nth-child(1):hover .icon{
-  background: #4267B2;
+  background: #00acee;
 }
 .wrapper .button:nth-child(2):hover .icon{
   background: #DD2A7B;
@@ -275,7 +275,7 @@ body{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1) span{
-  color: #4267B2;
+  color: #00acee;
 }
 .wrapper .button:nth-child(2) span{
   color: #DD2A7B;
